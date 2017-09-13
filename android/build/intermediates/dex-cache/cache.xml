@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\09feaa6447db586be643851fdb85a3e62fcac821\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b49a04a3016689b372ecbb77f0c33e486e768cca">
+        <dex dex="E:\own_project\HybridAppV2\android\app\build\intermediates\pre-dexed\debug\classes_d2fa993c032da2bae65d20959fb13eceb5776807.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\own_project\HybridAppV2\node_modules\react-native-code-push\android\app\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a7d5c2199a405fc69ff6b897660766aef6e7db07">
+        <dex dex="E:\own_project\HybridAppV2\android\app\build\intermediates\pre-dexed\debug\classes_b131bde88bafd107fd4e27a0a0ea6293ecdd096a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\09feaa6447db586be643851fdb85a3e62fcac821\output\jars\libs\infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="E:\own_project\HybridAppV2\android\app\build\intermediates\pre-dexed\debug\infer-annotations-1.5_45fac110a6f42519cb1bfb787fb5fdfbf0f0fb3d.jar" />
+    </item>
+
+</items>

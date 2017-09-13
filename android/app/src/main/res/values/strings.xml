@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HybridApp</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="reactNativeCodePush_androidDeploymentKey">QMaHz0vr1bbRSodwAOILtgRL62jy5615cedc-d758-413a-8a8c-b39095f270d5</string>
+    <string name="reactNativeCodePush_androidStagingKey">WSm2SqFVdK2bp3DjVXh4IFaW1oQt5615cedc-d758-413a-8a8c-b39095f270d5</string>
+    <string name="title_activity_index">indexActivity</string>
+</resources>

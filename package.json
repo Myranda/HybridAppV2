@@ -1,0 +1,26 @@
+{
+  "name": "hybridapp",
+  "version": "1.0.0",
+  "description": "react native app demo",
+  "main": "index.android.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "no"
+  ],
+  "author": "Wml",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-native": "^0.41.2",
+    "react-native-code-push": "^1.17.4-beta",
+    "react-native-swiper": "^1.5.10",
+    "react-navigation": "^1.0.0-beta.11"
+  }
+}
